@@ -37,8 +37,8 @@ Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisanslanm
 
 Eğer herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen benimle iletişime geçmekten çekinmeyin. İletişim bilgilerim aşağıda yer almaktadır:
 
-- E-posta: örneğin@gmail.com
-- GitHub: [github.com/sizin-kullanıcı-adınız](https://github.com/sizin-kullanıcı-adınız)
-- Twitter: [@kullanıcı-adınız](https://twitter.com/kullanıcı-adınız)
+- E-posta: fvuarr@gmail.com
+- GitHub: [github.com/FVuar](https://github.com/FVuar)
+- Twitter: [@kullanıcı-adınız](https://twitter.com/FVuarr)
 
 Teşekkür ederim ve iyi çalışmalar!
