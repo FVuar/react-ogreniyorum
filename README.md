@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# İlk React Projeniz
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bu, benim ilk React projesi deneyimimdir ve sizinle paylaşmak istedim. Bu proje, React'i öğrenme sürecimin bir parçası olarak oluşturulmuştur ve basit bir örnek içermektedir.
 
-## Available Scripts
+## Proje Hakkında
 
-In the project directory, you can run:
+Bu proje, [React](https://reactjs.org/) kütüphanesini kullanarak bir web uygulaması geliştirmeyi amaçlamaktadır. Proje, React'in temel kavramlarını anlamak ve pratik yapmak için oluşturulmuştur. Uygulama, basit bir kullanıcı arayüzüne ve bazı örnek bileşenlere sahiptir.
 
-### `npm start`
+## Kurulum
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Projeyi bilgisayarınıza klonlayın: `git clone https://github.com/sizin-kullanıcı-adınız/ilk-react-projeniz.git`
+2. Proje dizinine gidin: `cd ilk-react-projeniz`
+3. Gerekli paketleri yüklemek için aşağıdaki komutu çalıştırın: `npm install`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Kullanım
 
-### `npm test`
+1. Terminali açın ve proje dizinine gidin: `cd ilk-react-projeniz`
+2. Projeyi başlatmak için aşağıdaki komutu çalıştırın: `npm start`
+3. Tarayıcınızda `http://localhost:3000` adresine gidin.
+4. Proje başarıyla çalıştığında uygulamayı görebileceksiniz.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Katkıda Bulunma
 
-### `npm run build`
+Eğer projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Bu depoyu `fork` edin.
+2. Yeni bir `branch` oluşturun: `git checkout -b yeni-ozellik`
+3. Değişikliklerinizi yapın ve bunları `commit` edin: `git commit -am 'Yeni özellik ekle'`
+4. Forkladığınız depoya `push` yapın: `git push origin yeni-ozellik`
+5. Bir `pull request` açın.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Lisans
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyebilirsiniz.
 
-### `npm run eject`
+## İletişim
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Eğer herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen benimle iletişime geçmekten çekinmeyin. İletişim bilgilerim aşağıda yer almaktadır:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- E-posta: örneğin@gmail.com
+- GitHub: [github.com/sizin-kullanıcı-adınız](https://github.com/sizin-kullanıcı-adınız)
+- Twitter: [@kullanıcı-adınız](https://twitter.com/kullanıcı-adınız)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Teşekkür ederim ve iyi çalışmalar!
