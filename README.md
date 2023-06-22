@@ -39,6 +39,6 @@ Eğer herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen benimle iletiş
 
 - E-posta: fvuarr@gmail.com
 - GitHub: [github.com/FVuar](https://github.com/FVuar)
-- Twitter: [@kullanıcı-adınız](https://twitter.com/FVuarr)
+- Twitter: [@FVuarr](https://twitter.com/FVuarr)
 
 Teşekkür ederim ve iyi çalışmalar!
