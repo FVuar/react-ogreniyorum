@@ -1,4 +1,4 @@
-# İlk React Projeniz
+# İlk React Projem
 
 Bu, benim ilk React projesi deneyimimdir ve sizinle paylaşmak istedim. Bu proje, React'i öğrenme sürecimin bir parçası olarak oluşturulmuştur ve basit bir örnek içermektedir.
 
